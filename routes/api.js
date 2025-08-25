@@ -20,4 +20,4 @@ router.get('/news/set', async (req, res) => {
 
 module.exports = router;
 
-Add API route for SET news
+
