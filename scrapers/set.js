@@ -24,4 +24,4 @@ async function scrapeSET(ticker, fromDate, toDate) {
 
 module.exports = scrapeSET;
 
-Add scraper for SET news
+
